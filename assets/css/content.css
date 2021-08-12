@@ -1,0 +1,196 @@
+.text-white{
+    color: #ffffff !important;
+}
+
+#content{
+    
+}
+
+#content .content-section{
+    width: 800px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px 16px;
+}
+
+#content .section-heading{
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+#content .section-slogan{
+    opacity: 0.6;
+    text-align: center;
+    margin: 25px 0px;
+    font-style: italic;
+}
+
+#content .about-text{
+    margin-top: 25px;
+    text-align: justify;
+    line-height: 1.4;
+}
+
+#content .member-list{
+    margin-top: 32px;
+}
+
+#content .member-name{
+    
+}
+
+#content .member-img{
+    margin-top: 15px;
+    width: 154px;
+    border-radius: 4px;
+}
+
+.tuor-section{
+    background: #000000;
+}
+
+.tickets-list{
+    background: #ffffff;
+    margin-top: 16px;
+}
+
+.tickets-list li{
+    padding: 11px 16px;
+    border-bottom: 1px solid #ddd;
+    color: #757575;
+    list-style: none;
+}
+
+.tickets-list .sold-out{
+    background: #f44336;
+    color: #ffffff;
+    padding: 4px 8px;
+    margin-left: 16px;
+}
+
+.tickets-list .quantity{
+    background-color: #000000;
+    color: #ffffff;
+    float: right;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    line-height: 24px;
+    text-align: center;
+    margin-right: 16px;
+    margin-top: -3px;
+}
+
+#content .places-list{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+#content .place-item{
+    
+}
+
+#content .place-img{
+    width: 100%;
+    display: block;
+}
+
+#content .place-img:hover{
+    opacity: 0.6;
+}
+
+#content .place-content{
+    background-color: #ffffff;
+    padding: 16px;
+}
+
+#content .place-time{
+    margin: 15px 0;
+    opacity: 0.6;
+}
+
+#content .place-description{
+    line-height: 1.4;
+    margin-bottom: 15px;
+}
+
+#content .btn{
+    background-color: #000000;
+    text-decoration: none;
+    padding: 12px 16px;
+    display: inline-block;
+    border: none;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-appearance: none;
+}
+
+#content .btn:hover{
+    background: #ccc;
+    color: #000000 !important;
+    cursor: pointer;
+}
+
+#content .contact-content{
+    margin-top: 48px;
+}
+
+#content .contact-info{
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#content .contact-info a{
+    color: #101aef;
+    opacity: 0.8;
+}
+
+#content .contact-info a:hover{
+    opacity: 1;
+}
+
+#content .contact-info i[class*="ti-"]{
+    display: inline-block;
+    width: 30px;
+}
+
+.form-control{
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+.map-section img{
+    width: 100%;
+}
+
+#footer{
+    padding: 64px 16px;
+    font-size: 24px;
+}
+
+#footer .socials-list{
+    margin-bottom: 15px;
+}
+
+#footer .socials-list a{
+    text-decoration: none;
+    color: #000;
+    opacity: 0.6;
+}
+
+#footer .socials-list a:hover{
+    opacity: 0.3;
+}
+
+#footer .copyright,
+#footer .copyright a{
+    color: rgba(0,0,0,0.6);
+}
+
+.clear{
+    clear: both;
+}
