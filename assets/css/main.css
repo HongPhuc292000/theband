@@ -1,11 +1,3 @@
-
-/* 
-PC>=1024px
-740px<=Tablet<1024px
-Mobile<740px
-
-*/
-/* reset css */
 *{
     padding: 0;
     margin: 0;
